@@ -188,14 +188,6 @@ This repo ships with safe templates:
 
 ---
 
-## Security note (important)
-
-If you accidentally committed secrets before:
-
-- **Rotate the credentials immediately** (MongoDB URI, Cloudinary keys, email password, Google OAuth secrets, Groq API key, etc.)
-- Make sure `backend/.env` and `frontend/.env` stay **untracked** and **ignored**
-
----
 
 ## Project group members
 
